@@ -6,3 +6,4 @@ torch
 numpy
 Flask-SocketIO
 eventlet
+flask_cors
